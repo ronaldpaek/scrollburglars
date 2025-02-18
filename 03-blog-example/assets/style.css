@@ -51,6 +51,10 @@ a {
   text-decoration-thickness: 2px;
 }
 
+html {
+  overflow-x: clip;
+}
+
 .site-header-wrapper {
   position: sticky;
   z-index: 2;
